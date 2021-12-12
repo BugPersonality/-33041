@@ -3,4 +3,4 @@
 * [ML](Subjects/ML.md)
 * [WEB](Subjects/WEB.md)
 * [Linux](Subjects/LINUX.md)
-* [MATAN](Subjects/MATH.md)
+* [Math](Subjects/MATH.md)
